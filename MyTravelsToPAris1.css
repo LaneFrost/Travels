@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body {
+	background-image: url(bg.gif);
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+h1 {
+	color: #E74279;
+	text-align: center;
+	text-shadow: 1px 1px #090909;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+a {
+	color: #E74279;
+}
+hr {
+	border-style: dashed;
+	border-color: #E74279;
+}
+h3 {
+	background-color: #E74279;
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	border-radius: 10px;
+	text-indent: 10px;
+	background-image: url(h3-background.gif);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 99% 0%;
+}
+img {
+	border: thick solid #E74279;
+	border-spacing: 0px 0px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+body ul {
+	list-style-image: url(bullet.gif);
+}
